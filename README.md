@@ -1,2 +1,2 @@
 # html-portfolio
-A collection of My projects while learning HTML
+A collection of My projects and my journey
